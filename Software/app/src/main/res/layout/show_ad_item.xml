@@ -1,0 +1,42 @@
+<!-- ad_item.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/ad_image"
+        android:layout_width="120dp"
+        android:layout_height="160dp"
+        android:contentDescription="@string/adImage" />
+
+    <TextView
+        android:id="@+id/ad_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/adTitle"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/ad_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/adPrice"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:gravity="center" />
+
+    <ImageView
+        android:id="@+id/cancel_icon"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@drawable/ic_baseline_cancel_24"
+        android:contentDescription="@string/removeFromFavorites"
+        android:layout_gravity="end|top"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp" />
+</LinearLayout>

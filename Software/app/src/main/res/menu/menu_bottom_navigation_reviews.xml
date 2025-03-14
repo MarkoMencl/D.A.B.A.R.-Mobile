@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/navReviewSent"
+        android:id="@+id/nav_review_sent"
+        android:icon="@drawable/ic_baseline_call_sent_24"/>
+    <item
+        android:title="@string/navReviewReceived"
+        android:id="@+id/nav_review_received"
+        android:icon="@drawable/ic_baseline_call_received_24"/>
+</menu>

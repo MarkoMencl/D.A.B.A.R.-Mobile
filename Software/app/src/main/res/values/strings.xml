@@ -1,0 +1,131 @@
+<resources>
+    <dimen name="gallery_item_width">100dp</dimen>
+    <dimen name="gallery_item_height">100dp</dimen>
+    <dimen name="gallery_item_spacing">8dp</dimen>
+    <string name="app_name">D.A.B.A.R.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="fav">Favourites</string>
+    <string name="add">Add</string>
+    <string name="message">Message</string>
+    <string name="profile">Profile</string>
+    <string name="login">Log in</string>
+    <string name="logout">Log out</string>
+    <string name="registration">Register</string>
+    <string name="signupEncouragement">Sign up or register to fully use D.A.B.A.R.</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="number">Number</string>
+    <string name="toastSignupEmptyError">Please fill in every blank space</string>
+    <string name="toastSignupBadEmailError">Please write a valid email address</string>
+    <string name="toastInvalidLoginError">Invalid email or password</string>
+    <string name="chatInputHint">Type a message</string>
+    <string name="chatSendButton">Send</string>
+    <string name="chatTitleBar">Chat</string>
+    <string-array name="status_values">
+        <item>Used</item>
+        <item>As new</item>
+        <item>New</item>
+        <item>Sold</item>
+    </string-array>
+
+    <string name="not_logged_in_message">Please log in to view your favorites.</string>
+    <string name="no_favorites_message">You have no favorites yet.</string>
+    <string name="profilePictureDescription">Uploader Profile Picture</string>
+    <string name="location">Location</string>
+    <string name="uploaderName">Uploader Name</string>
+    <string name="contactSeller">Contact Seller</string>
+    <string name="kaching">€0.00</string>
+    <string name="adStatus">Ad Status</string>
+    <string name="adDescription">Ad Description</string>
+    <string name="contentDescription">Ad Image</string>
+    <string name="imageDescription">Favorite</string>
+    <string name="adTitle">Ad Title</string>
+    <string name="editTitle">Edit Title</string>
+    <string name="editDescription">Ad Description</string>
+    <string name="editPrice">Edit Price</string>
+    <string name="fullScreenImage">Full Screen Image</string>
+    <string name="adPrice">Ad Price</string>
+    <string name="adImage">Ad Image</string>
+    <string name="imageChoose">Choose an image</string>
+    <string name="saveAd">Save the ad</string>
+    <string name="myAds">My ads</string>
+    <string name="statisticsTitle">Statistics</string>
+    <string name="profileStatistics">View Statistics</string>
+    <string name="favorites">Favorites</string>
+    <string name="noFavsYet">No favorites yet!</string>
+    <string name="literatureDescription">literature</string>
+    <string name="literatureText">Literature</string>
+    <string name="sportDescription">sport</string>
+    <string name="sportText">Sport</string>
+    <string name="marketDescription">market</string>
+    <string name="marketText">Market</string>
+    <string name="furnitureDescription">furniture</string>
+    <string name="furnitureText">Furniture</string>
+    <string name="clothesDescription">clothes</string>
+    <string name="clothesText">Clothes</string>
+    <string name="inYourArea">In your area</string>
+    <string name="search_ads_hint">Search ads</string>
+    <string name="sort_by">Sort by:</string>
+    <string name="sort_by_default">Default</string>
+    <string name="sort_by_price_asc">Price: Low to High</string>
+    <string name="sort_by_price_desc">Price: High to Low</string>
+    <string name="sort_by_date_asc">Date: Oldest First</string>
+    <string name="sort_by_date_desc">Date: Newest First</string>
+    <string name="sort_by_popularity">Most Popular</string>
+    <string name="in_your_area">In your area</string>
+    <string name="all_locations">All Locations</string>
+    <string name="preferredLocation">Select your preferred location</string>
+    <string name="preferredLanguage">Select your preferred language</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="removeFromFavorites">Remove from Favorites</string>
+    <string name="messageContent">Message content</string>
+    <string name="date">Date</string>
+    <string name="messageToMyself">You cannot send a message to yourself.</string>
+    <string name="needToBeLogged">You need to be logged in to contact the seller.</string>
+    <string name="invalidUserData">Invalid user data</string>
+    <string name="failedToSaveData">Failed to send message</string>
+    <string name="messageNeedsText">The message needs to have some text.</string>
+    <string name="noMessages">No chat messages found</string>
+    <string name="failedToFetchMessages">Failed to fetch chat messages</string>
+    <string name="youNeedToLogin">You need to log in to create ads!</string>
+    <string name="adAdded">Ad was added!</string>
+    <string name="adProvide">Please provide valid title, description, and price</string>
+    <string name="loginToViewAds">You need to log in to view your ads!</string>
+    <string name="failedToLoadChats">Failed to load chats</string>
+    <string name="userNotLoggedIn">User not logged in</string>
+    <string name="errorLoadingChats">Error loading chats</string>
+    <string name="noChats">No chats found</string>
+    <string name="pleaseFillAllFields">Please fill in all fields, select an image, and choose a location</string>
+    <string name="profileUpdateYes">Profile updated successfully</string>
+    <string name="profileShowReviews">Show reviews</string>
+    <string name="navReviewSent">Sent reviews</string>
+    <string name="navReviewReceived">Received reviews</string>
+    <string name="reviews">Seller reviews</string>
+    <string name="noAds">No ads found for this category</string>
+    <string name="adDetails">Ad details</string>
+    <string name="adCategories">Ads from the category</string>
+    <string name="addReview">Add a review</string>
+    <string name="addReviewForbidSameUser">You cannot send a review to yourself</string>
+    <string name="allCategories">All categories</string>
+    <string name="sortByViewsA">Sort by Views (Ascending)</string>
+    <string name="sortByViewsD">Sort by Views (Descending)</string>
+    <string name="averageViews">Average views:</string>
+
+    <string-array name="language_options">
+        <item>English</item>
+        <item>Croatian</item>
+        <item>German</item>
+    </string-array>
+
+    <string-array name="currency_options">
+        <item>EUR - Euro</item>
+        <item>USD - United States Dollar</item>
+        <item>GBP - British Pound</item>
+    </string-array>
+    <string name="reviewAddReviewFailed">Failed to add review</string>
+    <string name="cancel">Cancel</string>
+</resources>

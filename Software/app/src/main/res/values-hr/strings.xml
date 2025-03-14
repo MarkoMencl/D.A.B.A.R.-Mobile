@@ -1,0 +1,128 @@
+<resources>
+    <dimen name="gallery_item_width">100dp</dimen>
+    <dimen name="gallery_item_height">100dp</dimen>
+    <dimen name="gallery_item_spacing">8dp</dimen>
+    <string name="app_name">D.A.B.A.R.</string>
+    <string name="hello_blank_fragment">Prazni fragment</string>
+    <string name="home">Početna</string>
+    <string name="fav">Favoriti</string>
+    <string name="add">Dodaj</string>
+    <string name="message">Poruke</string>
+    <string name="profile">Profil</string>
+    <string name="login">Prijavi se</string>
+    <string name="logout">Odjavi se</string>
+    <string name="registration">Registriraj se</string>
+    <string name="signupEncouragement">Ulogiraj ili registriraj se za puni pristup D.A.B.A.R.-u</string>
+    <string name="username">Korisničko ime</string>
+    <string name="email">Email</string>
+    <string name="password">Lozinka</string>
+    <string name="number">Broj</string>
+    <string name="toastSignupEmptyError">Molim Vas popunite prazni kućice</string>
+    <string name="toastSignupBadEmailError">Molimo unesite valjanu email adresu</string>
+    <string name="toastInvalidLoginError">Neispravan email ili lozinka</string>
+    <string name="chatInputHint">Unesite poruku</string>
+    <string name="chatSendButton">Pošalji</string>
+    <string name="chatTitleBar">Chat</string>
+    <string-array name="status_values">
+        <item>Korišteno</item>
+        <item>Kao novo</item>
+        <item>Novo</item>
+        <item>Prodano</item>
+    </string-array>
+    <string name="not_logged_in_message">Molimo prijavite se da vidite svoje favorite.</string>
+    <string name="no_favorites_message">Još nemate favorita.</string>
+    <string name="profilePictureDescription">Dodaj profilnu sliku</string>
+    <string name="location">Lokacija</string>
+    <string name="uploaderName">Ime učitavača</string>
+    <string name="contactSeller">Kontaktirajte prodavača</string>
+    <string name="kaching">€0.00</string>
+    <string name="adStatus">Status oglasa</string>
+    <string name="adDescription">Opis oglasa</string>
+    <string name="contentDescription">Slika oglasa</string>
+    <string name="imageDescription">Favorit</string>
+    <string name="adTitle">Naslov oglasa</string>
+    <string name="editTitle">Uredite naslov</string>
+    <string name="editDescription">Opis oglasa</string>
+    <string name="editPrice">Uredite cijenu</string>
+    <string name="fullScreenImage">Cijela slika</string>
+    <string name="adPrice">Cijena oglasa</string>
+    <string name="adImage">Slika oglasa</string>
+    <string name="imageChoose">Odaberite sliku</string>
+    <string name="saveAd">Spremite oglas</string>
+    <string name="myAds">Moji oglasi</string>
+    <string name="favorites">Favoriti</string>
+    <string name="noFavsYet">Još nemate favorita!</string>
+    <string name="literatureDescription">književnost</string>
+    <string name="literatureText">Književnost</string>
+    <string name="sportDescription">sport</string>
+    <string name="sportText">Sport</string>
+    <string name="marketDescription">tržnica</string>
+    <string name="marketText">Tržnica</string>
+    <string name="furnitureDescription">namještaj</string>
+    <string name="furnitureText">Namještaj</string>
+    <string name="clothesDescription">odjeća</string>
+    <string name="clothesText">Odjeća</string>
+    <string name="inYourArea">U vašem području</string>
+    <string name="search_ads_hint">Pretraži oglase</string>
+    <string name="sort_by">Sortiraj po:</string>
+    <string name="sort_by_default">Zadano</string>
+    <string name="sort_by_price_asc">Cijena: Od najniže do najviše</string>
+    <string name="sort_by_price_desc">Cijena: Od najviše do najniže</string>
+    <string name="sort_by_date_asc">Datum: Najstariji prvo</string>
+    <string name="sort_by_date_desc">Datum: Najnoviji prvo</string>
+    <string name="sort_by_popularity">Najpopularnije</string>
+    <string name="in_your_area">U vašem području</string>
+    <string name="all_locations">Sve lokacije</string>
+    <string name="preferredLocation">Odaberite željenu lokaciju</string>
+    <string name="preferredLanguage">Odaberite željeni jezik</string>
+    <string name="save">Spremi</string>
+    <string name="edit">Uredi</string>
+    <string name="delete">Izbriši</string>
+    <string name="removeFromFavorites">Ukloni iz favorita</string>
+    <string name="messageContent">Sadržaj poruke</string>
+    <string name="date">Datum</string>
+    <string name="messageToMyself">Ne možete poslati poruku sebi.</string>
+    <string name="needToBeLogged">Morate biti prijavljeni da biste kontaktirali prodavača.</string>
+    <string name="invalidUserData">Nevažeći podaci korisnika</string>
+    <string name="failedToSaveData">Neuspjelo slanje poruke</string>
+    <string name="messageNeedsText">Poruka mora sadržavati neki tekst.</string>
+    <string name="noMessages">Nema chat poruka</string>
+    <string name="failedToFetchMessages">Neuspjelo učitavanje chat poruka</string>
+    <string name="youNeedToLogin">Morate se prijaviti kako biste dodali oglase!</string>
+    <string name="adAdded">Oglas je dodan!</string>
+    <string name="adProvide">Molimo vas da unesete valjan naslov, opis i cijenu</string>
+    <string name="loginToViewAds">Morate se prijaviti kako biste vidjeli svoje oglase!</string>
+    <string name="failedToLoadChats">Neuspjelo učitavanje chatova</string>
+    <string name="userNotLoggedIn">Korisnik nije prijavljen</string>
+    <string name="errorLoadingChats">Pogreška pri učitavanju chatova</string>
+    <string name="noChats">Nema chatova</string>
+    <string name="pleaseFillAllFields">Molimo vas da ispunite sva polja, odaberete sliku i odaberete lokaciju</string>
+    <string name="profileUpdateYes">Profil je uspješno ažuriran</string>
+    <string name="profileShowReviews">Pokaži recenzije</string>
+    <string name="navReviewSent">Poslane recenzije</string>
+    <string name="navReviewReceived">Zaprimljene recenzije</string>
+    <string name="reviews">Recenzije prodavača</string>
+    <string name="noAds">Nema oglasa za ovu kategoriju</string>
+    <string name="adDetails">Detalji oglasa</string>
+    <string name="adCategories">Oglasi iz kategorije</string>
+    <string name="addReview">Dodajte recenziju</string>
+    <string name="addReviewForbidSameUser">Ne možete sami sebi poslati recenziju</string>
+    <string name="allCategories">Sve kategorije</string>
+    <string name="sortByViewsA">Poredaj po prikazima (uzlazno)</string>
+    <string name="sortByViewsD">Poredaj po prikazima (silazno)</string>
+    <string name="averageViews">Prosječni pregledi:</string>
+
+    <string-array name="language_options">
+        <item>Engleski</item>
+        <item>Hrvatski</item>
+        <item>Njemački</item>
+    </string-array>
+
+    <string-array name="currency_options">
+        <item>EUR - Euro</item>
+        <item>USD - Američki dolar</item>
+        <item>GBP - Britanska funta</item>
+    </string-array>
+    <string name="reviewAddReviewFailed">Dodavanje recenzije nije uspjelo</string>
+    <string name="cancel">Odustani</string>
+</resources>

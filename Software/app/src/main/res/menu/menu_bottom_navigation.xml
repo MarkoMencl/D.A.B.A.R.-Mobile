@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/nav_fav"
+        android:icon="@drawable/ic_rounded_bookmark_heart_24"
+        android:title="@string/fav" />
+    <item
+        android:id="@+id/nav_add"
+        android:icon="@drawable/ic_baseline_add_circle_24"
+        android:title="@string/add" />
+    <item
+        android:id="@+id/nav_message"
+        android:icon="@drawable/ic_outline_business_messages_24"
+        android:title="@string/message" />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_baseline_accessibility_new_24"
+        android:title="@string/profile" />
+</menu>
